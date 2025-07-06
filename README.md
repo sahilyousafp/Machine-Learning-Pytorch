@@ -40,32 +40,32 @@ These projects demonstrate how to build and train diverse ML models using PyTorc
 ### Binary Classification – Linear Model
 
 A linear regression model for predicting y-values on a straight-line dataset.
-![Linear Model Output](images/binary_linear_output.png)
+
 
 ### Binary Classification – Non‑Linear Model
 
 Modeling circular separation using a ReLU layer to handle non-linear patterns.
-![Non-linear Model Output](images/binary_nonlinear_output.png)
+
 
 ### Multi‑Classification Model
 
 Extends the ReLU design for handling multiple class outputs in 2D feature space.
-![Multi-class Output](images/multiclass_output.png)
+
 
 ### Computer Vision without CNN
 
 A basic fully-connected model (MLP) trained on FashionMNIST to classify clothing items.
-![FC Model FashionMNIST](images/fc_fashionmnist.png)
+
 
 ### Computer Vision with CNN
 
 A 2D CNN to improve accuracy on FashionMNIST classification tasks.
-![CNN FashionMNIST](images/cnn_fashionmnist.png)
+
 
 ### Food Identifier (TinyVGG)
 
 A custom TinyVGG CNN trained on a food image dataset, including data augmentation for robustness.
-![TinyVGG Food Classifier](images/tinyvgg_food.png)
+
 
 ---
 
