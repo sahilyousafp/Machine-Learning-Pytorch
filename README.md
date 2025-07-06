@@ -1,10 +1,11 @@
-# Machine Learning in PyTorch 🔥
+# Machine Learning in PyTorch 
+![image](https://github.com/user-attachments/assets/2b58fd11-f063-4b94-ad94-c1d83c456732)
 
 This repository contains a series of hands-on Machine Learning and Deep Learning projects built with **Python** and **PyTorch**, following the *Zero to Mastery: Learn PyTorch for Deep Learning* course.
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 * [Overview](#overview)
 * [Projects](#projects)
@@ -26,11 +27,11 @@ This repository contains a series of hands-on Machine Learning and Deep Learning
 
 These projects demonstrate how to build and train diverse ML models using PyTorch, ranging from basic linear classifiers to convolutional neural networks (CNNs). Curriculum includes:
 
-* ✅ Linear regression
-* ✅ Rectified (ReLU) models for non-linear separability
-* ✅ Multi-class classification
-* ✅ Image classification with and without CNN
-* ✅ Custom dataset training using TinyVGG architecture
+* Linear regression
+* Rectified (ReLU) models for non-linear separability
+* Multi-class classification
+* Image classification with and without CNN
+* Custom dataset training using TinyVGG architecture
 
 ---
 
